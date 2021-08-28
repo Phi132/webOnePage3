@@ -935,8 +935,8 @@
 .profile__avatar {
     border: 12px solid white;
     border-radius: 50%;
-    width: 270px;
-    height: 270px;
+    width: 220px;
+    height: 220px;
     overflow: hidden;
     transition: all .3s ease-in;
     box-shadow: 2px 2px 7px 11px #d1d0d0c9;
