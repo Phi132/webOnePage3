@@ -1,0 +1,55 @@
+@media screen and (max-width: 480px) and (min-width: 340px) {
+/* header */
+
+/*  */
+
+/* contact area */
+    .btn-link-describe {
+        transform: translateY(-30%);
+    }
+    .plr-0-phone {
+        padding-left: 3px;
+        padding-right: 0;
+    }
+/*  */
+/* customer */
+    .fback__text-right {
+        background-color: var(--wc-header-green);
+        height: 100%;
+        padding: 90px 20px 0;
+        /* overflow: hidden; */
+    }
+    .fback__text__title {
+        color: white;
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .owl-carousel .owl-item .link-avatar__cus {
+        width: 788% !important;
+    }
+    .content__cus-1, .content__cus-2 {
+        margin-left: 95px;
+    }
+/*  */
+/* map */
+    .map__section-contact {
+        top: 65px;
+        right: 2%;
+        left : 2%;
+        padding: 19px 18px 0px;
+    }
+    .map__area {
+        overflow: unset;
+    }
+/*  */
+/* footer */
+    .footer-top-area {
+        transform: translateY(270px);
+        padding: 75px 0 40px 0;
+        background-color: black;
+    }
+    .plr-25 {
+        padding: 0 25px;
+    }
+/*  */
+}
