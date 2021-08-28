@@ -2,6 +2,9 @@
 /* header */
 
 /*  */
+.profile__avatar {
+    margin-left: 23%;
+}
 
 /* contact area */
     .btn-link-describe {
