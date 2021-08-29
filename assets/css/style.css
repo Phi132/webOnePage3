@@ -771,7 +771,7 @@
     position: absolute;
     z-index: 3;
     background-color: var(--wc-header-green);
-    transform: rotateY(-81.7deg);
+    transform: rotateY(-81.9deg);
     transform-origin: left;
     transition: all .4s ease-out;
     opacity: 1;
